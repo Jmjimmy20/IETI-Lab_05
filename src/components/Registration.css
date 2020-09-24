@@ -1,0 +1,25 @@
+.paper {
+
+    margin-top: 8%;
+    display: 'flex';
+    flex-direction: 'column';
+    align-items: 'center';
+}
+
+.avatar {
+    margin: 1em;
+    background-color: rgb(226, 8, 8);
+}
+.form {
+    width: '100%';
+    margin-top: 3em;
+}
+
+.submit {
+    margin: 3em  0em  2em
+}
+
+body .buttonReg{
+    background-color: rgb(68, 99, 156) !important;
+    margin: 2em 0em 2em;
+  }
